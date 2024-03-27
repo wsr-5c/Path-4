@@ -7,4 +7,10 @@
     <string name="r_7458_4567_4434_5854">R-7458-4567-4434-5854</string>
     <string name="package_status">Package Status</string>
     <string name="view_package_info">View Package Info</string>
+    <string name="package_ready_for_delivery">Package ready for delivery</string>
+    <string name="july_7_2022_08_30am">July 7 2022 08:30am</string>
+    <string name="july_7_2022_08_00am">July 7 2022 08:00am</string>
+    <string name="courier_requested">Courier requested</string>
+    <string name="july_7_2022_10_30am">July 7 2022 10:30am</string>
+    <string name="package_in_transit">Package in transit</string>
 </resources>
