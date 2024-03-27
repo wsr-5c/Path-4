@@ -13,4 +13,12 @@
     <string name="courier_requested">Courier requested</string>
     <string name="july_7_2022_10_30am">July 7 2022 10:30am</string>
     <string name="package_in_transit">Package in transit</string>
+    <string name="destination_details">Destination details</string>
+    <string name="_1_19_ademola_alabi_close_lagos">1. 19 Ademola Alabi close, lagos</string>
+    <string name="_234_70644_80655">+234 70644 80655</string>
+    <string name="_234_56543_96854">+234 56543 96854</string>
+    <string name="mbaraugba_ovom_amaa_asaa_abia_state">Mbaraugba, Ovom Amaa Asaa, Abia state</string>
+    <string name="origin_details">Origin details</string>
+    <string name="package_information">Package Information</string>
+    <string name="send_a_package">Send a package</string>
 </resources>
