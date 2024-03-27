@@ -226,7 +226,7 @@
 
     <Button
         android:id="@+id/btnReport"
-        android:layout_width="158dp"
+        android:layout_width="157dp"
         android:layout_height="wrap_content"
         android:backgroundTint="#FFFFFF"
         android:text="Report"
@@ -243,7 +243,7 @@
 
     <Button
         android:id="@+id/btnSuc"
-        android:layout_width="158dp"
+        android:layout_width="157dp"
         android:layout_height="wrap_content"
         android:backgroundTint="#0560FA"
         android:text="Successful"
