@@ -196,7 +196,7 @@
                 android:backgroundTint="#00FFFFFF"
                 app:icon="@drawable/img_3"
                 app:iconGravity="textEnd"
-                app:iconSize="24sp"
+                app:iconSize="23sp"
                 app:iconTint="#0560FA"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
