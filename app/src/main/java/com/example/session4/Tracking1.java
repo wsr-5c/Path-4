@@ -27,5 +27,14 @@ public class Tracking1 extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+
+        Button btnInfo = findViewById(R.id.Packinfo);
+        btnInfo.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(Tracking1.this, SendApack.class);
+                startActivity(intent);
+            }
+        });
     }
 }
