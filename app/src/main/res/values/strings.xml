@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Session4</string>
+    <string name="track">Track</string>
+    <string name="profile">Profile</string>
+    <string name="wallet">Wallet</string>
+    <string name="tracking_number">Tracking Number</string>
+    <string name="r_7458_4567_4434_5854">R-7458-4567-4434-5854</string>
+    <string name="package_status">Package Status</string>
+    <string name="view_package_info">View Package Info</string>
+</resources>
